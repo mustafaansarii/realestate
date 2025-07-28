@@ -25,7 +25,7 @@ const PropertyDetail = () => {
   }
 
   return (
-    <Container maxWidth="md" sx={{ mt: 10, display: 'flex', justifyContent: 'center' }}>
+    <Container maxWidth="md" sx={{ mt: 6, display: 'flex', justifyContent: 'center' }}>
       <Card sx={{ maxWidth: 1000, m: 'auto' }}>
         <CardMedia
           component="img"
